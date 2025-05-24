@@ -21,7 +21,7 @@ Sou um estudante de ciência da computação, buscando me aperfeiçoar no desenv
 
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](www.linkedin.com/in/edilson-emidio-9b9a4634a)
+- 💼 [LinkedIn](https://www.linkedin.com/in/edilson-emidio-9b9a4634a)
 - 📧 Email: edilsonemidio93@gmail.com
 
 
