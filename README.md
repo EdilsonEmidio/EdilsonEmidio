@@ -18,6 +18,8 @@ Sou um estudante de ciência da computação, buscando me aperfeiçoar no desenv
 
 ## 📈 Estatísticas do GitHub
 [![Edilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilsonemidio&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonemidio&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## 📫 Como me encontrar
