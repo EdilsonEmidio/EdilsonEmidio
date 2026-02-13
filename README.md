@@ -19,12 +19,6 @@ Sou um estudante de ciência da computação, buscando me aperfeiçoar no desenv
 ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 
-## 📈 Estatísticas do GitHub
-![Edilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edilsonemidio&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonemidio&layout=compact&langs8&theme=radical)
-
-
-
 ## 📫 Como me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/edilson-emidio-9b9a4634a)
 - 📧 Email: edilsonemidio93@gmail.com
