@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o Edilson Emidio
+# 👋 Olá! Eu sou Edilson Emidio
 
-Sou um estudante de ciência da computação, buscando me aperfeiçoar no desenvolvimento de software.
+Estudante de ciência da computação, buscando me tornar cada dia meu tornar melhor desenvolvedor.
 
 ## 🚀 Conhecimento nas seguintes tecnologias
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -17,7 +17,7 @@ Sou um estudante de ciência da computação, buscando me aperfeiçoar no desenv
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📫 Como me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/edilson-emidio-9b9a4634a)
