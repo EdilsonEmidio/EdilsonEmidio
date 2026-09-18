@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou Edilson Emidio
 
 Estudante de ciência da computação, buscando me tornar cada dia meu tornar melhor desenvolvedor.
+Portfolio: <https://edilsonemidio.github.io/portfolio/>
 
 ## 🚀 Conhecimento nas seguintes tecnologias
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
